@@ -46,9 +46,3 @@ Since the app is not available on the Google Play Store, you must download the A
 ## 🤝 Contribution
 
 This project is currently maintained privately. If you have suggestions or have found bugs, please open an **Issue** here on GitHub.
-
----
-
-## ⚖️ License
-
-This project is released under the **[Insert your License here, e.g., MIT]** License. See the `LICENSE` file for more details.
